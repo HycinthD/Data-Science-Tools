@@ -1,4 +1,4 @@
-![3-intro](https://github.com/user-attachments/assets/786412af-0510-4803-99dd-faf2223120d0)## AIM:
+## AIM:
  Create Tools For Data Science.
  ## Equipments Required:
  1.Jupyter Notebook
@@ -92,6 +92,27 @@ HYCINTH D
 */
 ```
 ## Output:
+
+![2-title](https://github.com/user-attachments/assets/f4a45b6a-7d44-4287-b2da-6fe228905c4d)
+
+![3-intro](https://github.com/user-attachments/assets/ab9e2405-2b7c-4be7-887f-2b871c22b222)
+
+![4-dslanguages](https://github.com/user-attachments/assets/f9072281-d952-483d-b442-a91ca1cf2bbf)
+
+![5-dslibraries](https://github.com/user-attachments/assets/e720883c-279c-4cec-9b2f-08676d6ee37b)
+
+![6-dstools](https://github.com/user-attachments/assets/4770c0b2-9eb1-41e1-9764-ea47910bc5e4)
+
+![8-multiplyandaddintegers](https://github.com/user-attachments/assets/51289311-ef0d-40eb-bf54-7825d3e5b277)
+
+![9-hourstominutes](https://github.com/user-attachments/assets/343c376b-25a7-4ca4-8532-7519b344861d)
+
+![10-objectives](https://github.com/user-attachments/assets/85a1b8f8-7207-4451-bb17-47821a2729b4)
+
+![11-authordetails](https://github.com/user-attachments/assets/e7d0804e-83b8-43a2-944c-d4d0b9490162)
+
+
+
 
 
 
